@@ -1,4 +1,4 @@
-# VulInstruct: Specification-Guided Vulnerability Detection 🔒
+# VulInstruct: Specification-Guided Vulnerability Detection
 
 <p align="center">
   📄 <a href="https://arxiv.org/abs/2511.04014" target="_blank">Paper</a> &nbsp; | &nbsp;
